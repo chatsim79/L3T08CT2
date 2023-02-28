@@ -58,7 +58,7 @@ to various users. A suggested way to begin would be to log in as admin.
 USERNAME: admin
 PASSWORD: adm1n
 
-Then crate a few users accounts as the admin and assign some tasks. You
+Then create a few users accounts as the admin and assign some tasks. You
 will be able to view tracking info via the menu options.
 
 ## 3 - Credits: 
